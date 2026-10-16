@@ -1,0 +1,17 @@
+total 68
+drwxr-x--- 10 sananoorbhatti sananoorbhatti 4096 Oct 16 08:41 .
+drwxr-xr-x  3 root           root           4096 Sep 12 19:08 ..
+-rw-------  1 sananoorbhatti sananoorbhatti 5152 Oct  7 19:44 .bash_history
+-rw-r--r--  1 sananoorbhatti sananoorbhatti  220 Feb 13  2026 .bash_logout
+-rw-r--r--  1 sananoorbhatti sananoorbhatti 3771 Feb 13  2026 .bashrc
+drwx------  2 sananoorbhatti sananoorbhatti 4096 Sep 12 19:51 .cache
+-rw-rw-r--  1 sananoorbhatti sananoorbhatti  196 Oct 16 08:40 .gitconfig
+-rw-------  1 sananoorbhatti sananoorbhatti   20 Oct 16 08:40 .lesshst
+drwx------  3 sananoorbhatti sananoorbhatti 4096 Oct  7 16:23 .local
+-rw-r--r--  1 sananoorbhatti sananoorbhatti  807 Feb 13  2026 .profile
+drwx------  2 sananoorbhatti sananoorbhatti 4096 Oct 16 08:38 .ssh
+drwxrwxr-x  3 sananoorbhatti sananoorbhatti 4096 Oct  7 18:09 Assignment01
+drwxrwxr-x  3 sananoorbhatti sananoorbhatti 4096 Oct  7 15:50 Gitea
+drwxrwxr-x  5 sananoorbhatti sananoorbhatti 4096 Oct 16 08:42 lab05-linux
+drwxrwxr-x  2 sananoorbhatti sananoorbhatti 4096 Sep 18 18:26 mylab
+drwxrwxr-x  3 sananoorbhatti sananoorbhatti 4096 Oct  7 19:02 portfolio
